@@ -8,9 +8,10 @@
 3. Descrição de aplicativos desenvolvidos, dashboards, IHM e demais interfaces com o usuário desenvolvidas (layouts e moockups)
     Utilizamos no projeto o Blink, que é uma plataforma para criar apps IoT. 
 
-###Imagem do APP
+##Imagem do APP
+
 <img src="tela_app.jpeg"/>
 
 
-###Link Compartilhavel do APP
-<img src="link_compartilhavel.jpeg"/>
+##Link Compartilhavel do APP
+<img src="link_compartilhavel.jpeg" width="400px"/>
