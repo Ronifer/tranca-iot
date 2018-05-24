@@ -21,8 +21,6 @@ requisições REST e/ou bluetooth. As requisições REST serão recebidas via um
 * Trancar porta
 * Destrancar porta
 * Informar situação de porta
-* Cadastrar usuario 
-* Liberar usuario
 
 ## Restrições do projeto
 
@@ -30,16 +28,7 @@ requisições REST e/ou bluetooth. As requisições REST serão recebidas via um
 
 ## Protótipos
 
-### Protótipos para funcionalidade 1
-
 ![](proto1.png)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade 2
 
 ![](proto2.png)
-
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade N
