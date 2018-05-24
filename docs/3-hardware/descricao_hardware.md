@@ -26,7 +26,9 @@ Deve conter:
 <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtgJg-V6kWpOeRI6zeooCXAqzkQyqiHOJ_INfsdYeV6ZQSH10&usqp=CAE" width="400"/>
 
 	01 – Módulo relé 5V
-<img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT8gkw2djuwFMGbYMdR_lZdNRuxPb1zyGJBzQ-A5UuGhyqrvpFRQihmscNRzAnwZRxMWBIcVSsC&usqp=CAE" width="400"/>
+<img src="https://ferramentasgerais.vteximg.com.br/arquivos/ids/171622/Fita-Isolante-PVC-33--19mmx20m---H0002243782---3M.jpg?v=636204631882230000" width="400"/>
+
+
 
 2) Desenho Tinkercad ou Fritzing
 
@@ -37,3 +39,19 @@ Deve conter:
 <img src="tranca_eletronica_circuito_Esquemático.png"/>
 
 4) Materiais para confecção de caixas e consoles (ou arquivos para impressão 3D)
+
+	01 – Pote de plastico (para prototipo apenas)
+<img src="http://www.paranautilidades.com.br/images/produto/img_1535_foto_1.jpg" width="400"/>
+
+	01 – Fita dupla face
+<img src="https://d12at9q4uvbn8r.cloudfront.net/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/2/4/24810---fita-dupla-face-vhb-19mmx5m-fixa_o-extrema-3m-4950.jpg" width="400"/>
+
+5) Sistema Completo (Montado)
+
+<img src="f1.jpeg" width="400"/>
+
+<img src="f2.jpeg" width="400"/>
+
+<img src="f3.jpeg" width="400"/>
+
+<img src="f4.jpeg" width="400"/>
