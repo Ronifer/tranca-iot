@@ -26,7 +26,7 @@ Deve conter:
 <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtgJg-V6kWpOeRI6zeooCXAqzkQyqiHOJ_INfsdYeV6ZQSH10&usqp=CAE" width="400"/>
 
 	01 – Módulo relé 5V
-<img src="https://ferramentasgerais.vteximg.com.br/arquivos/ids/171622/Fita-Isolante-PVC-33--19mmx20m---H0002243782---3M.jpg?v=636204631882230000" width="400"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmGw6ulvsLD7MNo4mZg6Ym0UDPASB6_5ZPbKz3i88dok1hK0UG" width="400"/>
 
 
 
