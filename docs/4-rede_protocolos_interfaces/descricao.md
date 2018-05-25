@@ -30,10 +30,11 @@
 
 <img src="5.jpeg"/>
 
-##Imagem do APP
+#APP Funcionado:
 
 <img src="tela_app.jpeg"/>
 
 
-##Link Compartilhavel do APP
+#Link Compartilhavel do APP
+
 <img src="link_compartilhavel.jpeg" width="400px"/>
